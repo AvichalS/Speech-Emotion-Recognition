@@ -1,5 +1,5 @@
 # Speech-Emotion-Recognition-System
-SER comprises audio techniques and deep learning methods in an act to recognize human emotion from speech. This project aims to build a deep learning model for recognizing emotions from speech signals. The model is based on Multi-Layer Perceptron (MLP) architecture and is trained on a dataset of speech samples with labeled emotions.
+Developed a deep learning model using Multi-Layer Perceptron to recognize and classify speech signals into 6 distinct emotions. Extracted 160 audio features from every audio in a diverse dataset of around 7500 tracks by over 90 actors, enabling the model to detect emotions with around 75% accuracy on the training set. Implemented the model on a user-friendly Streamlit dashboard, allowing seamless audio input and real-time emotion analysis.
 
 The project follows the following steps:
 
